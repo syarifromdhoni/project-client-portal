@@ -1,0 +1,44 @@
+install MUI 
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+
+install react router
+npm install react-router-dom@6
+
+untuk install redux :
+npm install redux react-redux
+
+visitor = [{
+  id:"",
+  nomorKunjungan:"",
+  lokasi:"",
+  purpose:"",
+  personel: 
+  {
+    id:"",
+    companyName:"",
+    fullName:"",
+    email:"",
+    phoneNumber:""
+  },
+  {
+    id:"",
+    companyName:"",
+    fullName:"",
+    email:"",
+    phoneNumber:""
+  },
+  {
+    id:"",
+    companyName:"",
+    fullName:"",
+    email:"",
+    phoneNumber:""
+  }
+  date:"",
+  time:"",
+  additionalInfo:"",
+  fullNamePIC:"",
+  phoneNumberPIC:"",
+  emailPIC:"",
+  jobdeskPIC:""
+}]

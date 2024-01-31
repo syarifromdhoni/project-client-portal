@@ -1,0 +1,23 @@
+.box-utama {
+  margin: 0 auto;
+  width: 85vw;
+  border: 1px solid black;
+  border-radius: 1em;
+}
+
+.box-personel,
+.box-schedule,
+.box-additional-information,
+.box-contact-information {
+  margin: 1em auto;
+  width: 80vw;
+  border: 1px solid black;
+  border-radius: 1em;
+}
+
+.tabelNumber-tabelPersonel {
+  display: flex;
+  flex-direction: row;
+  gap: 4em;
+  margin-left: 3em;
+}
